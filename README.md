@@ -31,14 +31,14 @@ This project explores action recognition in both still images and videos using c
 - Integrates Frame and Optical Flow CNNs, fusing outputs via a concatenation layer to leverage both spatial and temporal information.
 ## Results and Discussion
 Each model's performance is evaluated based on accuracy and loss metrics, detailed in the project report. The integration of optical flow and the two-stream architecture are particularly noted for their potential to enhance action recognition performance in complex video scenarios.
-## Software and Installation
+## Requirements
 - **Python 3.6+**: Recommended for all development and testing.
 - **PyTorch**: Primary framework used for model development.
 - **CUDA GPU**: If available, enables significant speed-up in model training.
 
 ## Installation
 Clone the repository to your local machine:
-git clone [[https://github.com/aalexa201222Action-recognition-Two-Stream-Model-CV5.git](https://github.com/aalexa201222/Action-recognition-Two-Stream-Model-CV5)](https://github.com/aalexa201222/Action-recognition-Two-Stream-Model-CV5)
+git clone [[https://github.com/aalexa201222Action-recognition-Two-Stream-Model-CV5.git](https://github.com/aalexa201222/Action-recognition-Two-Stream-Model-CV5)]
 
 ## Contributors
 [Andreas Alexandrou](https://www.linkedin.com/in/andreas-alexandrou-056528242) <br />
